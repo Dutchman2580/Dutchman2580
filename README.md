@@ -12,7 +12,7 @@ Student sam Fakulteta za saobraćaj i komunikacije u Sarajevu, smjer Saobraćaj.
 ## 📂 Projekti
 - 🌹 [Roseheadz NFT](https://roseheadz.com/)  
 - 🇳🇱 [Dutch Crypto Punks](https://opensea.io/collection/dutchcryptopunks)  
-- 🖥️ Hosting i administracija gaming servera na Linux sistemima – iskustvo u postavljanju, konfiguraciji i održavanju serverskih okruženja za igrice na Linux platformama, uključujući optimizaciju performansi, sigurnosna podešavanja i mrežnu infrastrukturu.
+- 🖥️ Hosting i administracija Linux servera – iskustvo u postavljanju i održavanju servera za web stranice i aplikacije, uključujući sigurnosna podešavanja, optimizaciju i mrežnu konfiguraciju.
 
 ## 🎓 Obrazovanje
 - **ITAcademy** – Linux Administrator (2023 – 2024)  
